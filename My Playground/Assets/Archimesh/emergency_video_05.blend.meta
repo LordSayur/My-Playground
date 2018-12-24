@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: c384cef96af4f1440b20afe199e9d5ca
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Baseboard
+    100002: Baseboard_001
+    100004: Baseboard_002
+    100006: Baseboard_003
+    100008: Baseboard_004
+    100010: Baseboard_005
+    100012: //RootNode
+    100014: Floor
+    100016: Floor_001
+    100018: Floor_002
+    100020: Floor_003
+    100022: Floor_004
+    100024: Plane
+    100026: Plane_033
+    100028: Room
+    100030: Room_001
+    100032: Room_002
+    100034: Room_003
+    100036: Room_004
+    100038: Room_005
+    400000: Baseboard
+    400002: Baseboard_001
+    400004: Baseboard_002
+    400006: Baseboard_003
+    400008: Baseboard_004
+    400010: Baseboard_005
+    400012: //RootNode
+    400014: Floor
+    400016: Floor_001
+    400018: Floor_002
+    400020: Floor_003
+    400022: Floor_004
+    400024: Plane
+    400026: Plane_033
+    400028: Room
+    400030: Room_001
+    400032: Room_002
+    400034: Room_003
+    400036: Room_004
+    400038: Room_005
+    2300000: Baseboard
+    2300002: Baseboard_001
+    2300004: Baseboard_002
+    2300006: Baseboard_003
+    2300008: Baseboard_004
+    2300010: Baseboard_005
+    2300012: Floor
+    2300014: Floor_001
+    2300016: Floor_002
+    2300018: Floor_003
+    2300020: Floor_004
+    2300022: Plane
+    2300024: Plane_033
+    2300026: Room
+    2300028: Room_001
+    2300030: Room_002
+    2300032: Room_003
+    2300034: Room_004
+    2300036: Room_005
+    3300000: Baseboard
+    3300002: Baseboard_001
+    3300004: Baseboard_002
+    3300006: Baseboard_003
+    3300008: Baseboard_004
+    3300010: Baseboard_005
+    3300012: Floor
+    3300014: Floor_001
+    3300016: Floor_002
+    3300018: Floor_003
+    3300020: Floor_004
+    3300022: Plane
+    3300024: Plane_033
+    3300026: Room
+    3300028: Room_001
+    3300030: Room_002
+    3300032: Room_003
+    3300034: Room_004
+    3300036: Room_005
+    4300000: Room_005
+    4300002: Baseboard_005
+    4300004: Room_004
+    4300006: Floor_003
+    4300008: Baseboard_004
+    4300010: Room_003
+    4300012: Floor_002
+    4300014: Baseboard_003
+    4300016: Room_002
+    4300018: Floor_001
+    4300020: Baseboard_002
+    4300022: Room_001
+    4300024: Floor_004
+    4300026: Baseboard_001
+    4300028: Room
+    4300030: Floor
+    4300032: Baseboard
+    4300034: Plane
+    4300036: Plane_033
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Baseboard
+    second: {fileID: 2100000, guid: faeed8429d31dd344a903001e457a76d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Baseboard_material
+    second: {fileID: 2100000, guid: 7237e08bae853e244948f0668d5fb8f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor
+    second: {fileID: 2100000, guid: deefdfd62c08b324baed746625006a84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall
+    second: {fileID: 2100000, guid: a78cd41e950c1da4ca13799857dfa3d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_material
+    second: {fileID: 2100000, guid: a58670c66eaf2d14c9cc9526c6208ad2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: unnamed
+    second: {fileID: 2100000, guid: 36001df5fdb7b7d40a06755dbf455ab4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
